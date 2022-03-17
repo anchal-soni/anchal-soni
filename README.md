@@ -20,7 +20,7 @@
 <br>
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;Education&nbsp;Journey</b></summary>
+  <summary><b>&nbsp;&nbsp;Education&nbsp;Journey</b></summary>
   <br/>
   
   - B.Sc. Statistics 2009 from Lady Shri Ram Colleage, Delhi University
