@@ -19,15 +19,13 @@
 <br>
 <br>
 
-<details>
-  <summary><b>&nbsp;&nbsp;Education&nbsp;Journey</b></summary>
+
+  <b>&nbsp;&nbsp;Education&nbsp;Journey</b>
   <br/>
   
   - B.Sc. (H) Statistics (2009) from Lady Shri Ram College, University of Delhi
   - M.Sc. Statistics (2011) University of Delhi
   
-</details>
-
 <br>
 <br>
 
