@@ -23,7 +23,7 @@
   <summary><b>&nbsp;&nbsp;Education&nbsp;Journey</b></summary>
   <br/>
   
-  - B.Sc. (H) Statistics (2009) from Lady Shri Ram Colleage, University of Delhi
+  - B.Sc. (H) Statistics (2009) from Lady Shri Ram College, University of Delhi
   - M.Sc. Statistics (2011) University of Delhi
   
 </details>
@@ -31,12 +31,4 @@
 <br>
 <br>
 
-<details>
-  <summary><b>&nbsp;&nbsp;Teaching &nbsp;Journey</b></summary>
-  <br/>
 
-  - Teachers Development programs, Mathematics for a High School in Assam
-  - Stastics for a Management School in Mumbai
-  - Stastics for Nursing School in Mumbai
-  
- </details>
