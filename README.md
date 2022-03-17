@@ -7,7 +7,7 @@
 <table class="wide">
   <tr>
     <td class="left">
-      <img id="frontphoto" src="soudeep-pic3.png" width="280" height="280" alt="" />
+      <img id="frontphoto" src="Anchal_Soni.jpeg" width="280" height="280" alt="" />
     </td>
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <td class="left">
@@ -31,6 +31,6 @@
 
 <br>
 <br>
-<br> My CV is available <a href="https://" target="_blank">here</a> (last updated on December, 2021).
+<br> My CV is available <a href="https://github.com/anchal-soni/anchal-soni/blob/main/AnchalSoni.pdf" target="_blank">here</a> (last updated on December, 2021).
 
 
