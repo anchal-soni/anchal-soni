@@ -7,7 +7,7 @@
 <table class="wide">
   <tr>
     <td class="left">
-      <img id="frontphoto" src="Anchal_Soni.jpeg" width="280" height="280" alt="" />
+      <img id="frontphoto" src="Anchal_Soni.jpeg" alt="" />
     </td>
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <td class="left">
